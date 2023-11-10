@@ -1,0 +1,1 @@
+<div class="tag-list-box">{tags}</div>
